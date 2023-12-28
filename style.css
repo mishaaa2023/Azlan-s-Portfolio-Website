@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color:red;
+   font-family: 'Poppins', sans-serif;
+
+}
+#logo{
+    font-family: 'Lobster Two', sans-serif;
+    cursor: pointer;
+}
+.mr-5{
+    font-family: 'Roboto', sans-serif;
+}
+.mr-5:hover{
+font-family: 'Poppins', sans-serif;
+}
+#intro{
+    color: white;
+    text-shadow: 2px 2px 4px red;
+font-family: 'Bree Serif', serif;
+
+}
+.btn{
+ padding: 5px;
+ border-radius: 4px;
+}
+.ta{
+    text-align: center;
+   
+}
+.heading{
+    margin-top: 23px;
+    font-size: 2rem;
+    font-family: 'Bree Serif', serif;
+}
+.font-1{
+font-family: 'Bree Serif', serif;
+font-size: 2rem;
+}
+.tl{
+    text-align: left;
+}
+.logo{
+    margin-top: 23px;
+}
